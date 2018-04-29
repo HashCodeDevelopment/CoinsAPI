@@ -1,0 +1,10 @@
+main: net.hashcodedevelopement.coinsapi.Coins
+
+name: HashCodeDev-CoinsAPI
+author: Cerus
+version: 1.0
+description: CoinsAPI developed by HashCodeDevelopement. You are not allowed to sell, share or decompile this plugin without our permission.
+
+commands:
+  coins:
+    aliases: [money]
